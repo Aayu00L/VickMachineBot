@@ -1,6 +1,9 @@
 # About
 An Advanced Telegram Chatbot Open Sorce Code
 
+<p align="center"><a href="https://t.me/Awesome_Aayu"><img src="https://telegra.ph/file/bf233a3f25faae9783c63.jpg"></a></p>
+
+
 Note : 📝 VickMachineBot Is Not My Bot
 ## How To Host
 The easiest way to deploy this Bot
